@@ -41,10 +41,6 @@ Correzione: "(inserire qui)"
 2. Crea un branch descrittivo (`fix/<corso>-<lezione>` o `feat/<corso>-<lezione>`).
 3. Applica le modifiche e invia una *pull request*.
 
-## Licenza
 
-Aggiungi qui la licenza desiderata (es. `CC BY-NC-SA 4.0`).
 
----
-
-📌 *Nota*: il contenuto è a scopo di studio personale e condivisione; l’accuratezza non è garantita al 100%.
+📌 *Nota*: il contenuto è a scopo di studio personale e condivisione , l’accuratezza non è garantita al 100%.
