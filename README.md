@@ -1,7 +1,4 @@
 # Appunti\_uniTO\_Informatica
-
-**Appunti universitari UniTO – Informatica**
-
 ---
 
 ## Descrizione
