@@ -1,5 +1,3 @@
-# 📁 Programmazione 2 – Esercizi di Laboratorio ed Esami Svolti (in C)
-
 Autore: **Scarlata Davide**  
 Anno: **Primo anno**  
 Corso: **Linguaggio C – Programmazione 2**
