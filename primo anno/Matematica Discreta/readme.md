@@ -1,7 +1,7 @@
 # Matematica Discreta – Appunti ed Esercizi
 
 Autore: **Scarlata Davide**  
-Anno: **Primo anno**  
+Anno: **Primo**  
 Corso: **Matematica Discreta**
 
 > ⚠️ **Nota bene:**  
