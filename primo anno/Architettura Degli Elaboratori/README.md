@@ -11,8 +11,8 @@ Corso: **Architettura degli Elaboratori**
 ---
 
 ## 🔗 Collegamenti utili
-- 🌐 [Moodle corso Architettura degli Elaboratori]([https://informatica.i-learn.unito.it/course/view.php?id=xxxx](https://informatica.i-learn.unito.it/course/view.php?id=3106))  
-- 📝 [Piattaforma esami](https://esami.i-learn.unito.it/course/view.php?id=xxxx)  
+- 🌐 [Moodle corso Architettura degli Elaboratori](https://informatica.i-learn.unito.it/course/view.php?id=3106)  
+- 📝 [[Simulazioni esame](https://esami.i-learn.unito.it/course/view.php?id=2093) 
 ---
 
 Benvenutə! In questa cartella troverai una raccolta di **appunti personali**, **esercizi svolti**, e **prove d’esame passate** per la materia **Architettura degli Elaboratori** del primo anno di Informatica.
