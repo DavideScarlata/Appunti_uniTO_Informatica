@@ -44,3 +44,7 @@ Correzione: "(inserire qui)"
 
 
 📌 *Nota*: il contenuto è a scopo di studio personale e condivisione , l’accuratezza non è garantita al 100%.
+
+## ☕ Se vuoi offrirmi un caffè
+- [PayPal](https://www.paypal.com/paypalme/fydado)  
+- [Revolut](https://revolut.me/scarlata04)  
